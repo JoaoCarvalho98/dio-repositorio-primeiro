@@ -1,2 +1,2 @@
-# Repositorio sobre git/gitHub da DIO
-repositorio do bootcamp da dio
+# Repositorio com desafios da DIO.
+Este é um repositorio para disponibilizar os desafios do Bootcamp da DIO
